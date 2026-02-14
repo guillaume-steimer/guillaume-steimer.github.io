@@ -1,0 +1,38 @@
+/* Fond général avec dégradé */
+.md-main {
+  background: linear-gradient(to bottom, #0B1E2D, #122F44);
+}
+
+/* Titres avec léger glow art déco */
+.md-typeset h1, .md-typeset h2, .md-typeset h3 {
+  color: #FFB400;
+  text-shadow: 0 0 6px rgba(255,180,0,0.6);
+}
+
+/* Liens accentués */
+.md-nav__link--active, .md-nav__link:hover {
+  color: #FFB400;
+  text-shadow: 0 0 4px rgba(255,180,0,0.5);
+}
+
+/* Blocs de contenu semi-transparents */
+.md-content {
+  background-color: rgba(18,47,68,0.9);
+  border-radius: 8px;
+  padding: 1rem;
+}
+
+/* Centrage et style des images avec légende */
+.md-typeset img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.md-typeset em {
+  display: block;
+  text-align: center;
+  font-size: 0.9em;
+  margin-top: 0.2em;
+  color: #FFB400;
+}

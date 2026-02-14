@@ -1,0 +1,89 @@
+site_name: Guillaume Steimer Homepage
+site_url: https://www-irma.u-strasbg.fr/~steimer/
+
+markdown_extensions:
+  - attr_list
+
+theme:
+  name: material
+  language: en
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      primary: teal        # bleu/turquoise profond, ambiance sous-marine
+      accent: amber        # accent chaud, bronze/or
+      scheme: default
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      primary: teal        # bleu sombre, sous-marin
+      accent: amber        # accent chaud
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - search.suggest
+    - search.highlight
+
+# extra_css:
+#   - styles.css
+
+
+
+  # palette:
+  #   - media: "(prefers-color-scheme: light)"
+  #     primary: teal
+  #     accent: amber
+  #     scheme: default
+  #     toggle:
+  #       icon: material/toggle-switch
+  #       name: Switch to dark mode
+  #   - media: "(prefers-color-scheme: dark)"
+  #     primary: "#0D3B66"   # bleu profond sous-marin
+  #     accent: "#FFB400"    # cuivre/or
+  #     scheme: slate
+  #     toggle:
+  #       icon: material/toggle-switch-off-outline
+  #       name: Switch to light mode
+
+  # palette:
+  #   - media: "(prefers-color-scheme: light)"
+  #     primary: deep purple
+  #     accent: deep purple
+  #     scheme: default
+  #     toggle:
+  #       icon: material/toggle-switch
+  #       name: Switch to dark mode
+  #   - media: "(prefers-color-scheme: dark)"
+  #     primary: deep purple
+  #     accent: deep purple
+  #     scheme: slate
+  #     toggle:
+  #       icon: material/toggle-switch-off-outline
+  #       name: Switch to light mode
+
+
+
+nav:
+  - Home: index.md
+  - Research: research.md
+  - Teaching: teaching.md
+  - CV: CV.md
+
+plugins:
+  - search
+  - print-site
+
+
+
+
+
+
