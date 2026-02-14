@@ -1,5 +1,5 @@
 site_name: Guillaume Steimer Homepage
-site_url: https://www-irma.u-strasbg.fr/~steimer/
+site_url: https://guillaume-steimer.github.io/
 
 markdown_extensions:
   - attr_list
