@@ -6,9 +6,9 @@ hide:
 
 # Link to CV
 
-[CV (english)](assets/cv/cv_eng.pdf)
+[CV long (english)](assets/cv/cv_long_eng.pdf)
 
-[CV (french)](assets/cv/cv_fr.pdf)
+[CV long (french)](assets/cv/cv_long_fr.pdf)
 
 
 
