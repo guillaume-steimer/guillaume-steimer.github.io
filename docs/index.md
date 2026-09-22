@@ -8,15 +8,16 @@ hide:
 
 ## About me
 
-I hold a PhD in applied mathematics from the [University of Strasbourg](https://www.unistra.fr/) at the [Institut de Recherche Mathématique Avancée](https://irma.math.unistra.fr/) Mixed Research Unit 7501 from the [CNRS](https://www.cnrs.fr/). My thesis is entitled [*Model order reduction method for Hamiltonian dynamics using deep learning*](assets/manuscrit_steimer.pdf).
+I hold a PhD in Applied Mathematics from the [University of Strasbourg](https://www.unistra.fr/), where I conducted my research at the [Institut de Recherche Mathématique Avancée (IRMA)](https://irma.math.unistra.fr/), a Joint Research Unit (UMR 7501) of the [CNRS](https://www.cnrs.fr/). My PhD thesis, entitled [*Model Order Reduction Methods for Hamiltonian Dynamics Using Deep Learning*](assets/manuscrit_steimer.pdf), focused on the use of deep learning techniques for model order reduction of Hamiltonian dynamical systems.
+
+I am currently a postdoctoral researcher at the [CERFACS](https://cerfacs.fr/) in Toulouse, working within the [CONCACE team](https://concace.gitlabpages.inria.fr/) on hybrid AI-enhanced large-scale iterative methods.
+
+
 
 ## Contact
 
-[guillaume.steimer@math.unistra.fr](mailto:guillaume.steimer@math.unistra.fr)
+[steimer@cerfacs.fr](mailto:steimer@cerfacs.fr)
 
 [guillaume.steimer@inria.fr](mailto:guillaume.steimer@inria.fr) 
 
-<img src="assets/logo/logo-irma.svg" alt="logo-irma" width="170" align="center"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/logo/logo-cnrs.svg" alt="logo-cnrs" width="100" align="center"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/logo/logo-unistra.svg" alt="logo-unistra" width="200" align="center"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/logo/inr_logo_rouge.svg" alt="logo-inria" width="200" align="center"/>
+<img src="assets/logo/concace-rect-inst.png" alt="logo-concace" width="800" align="center"/>

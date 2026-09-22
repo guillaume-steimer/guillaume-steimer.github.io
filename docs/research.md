@@ -6,7 +6,9 @@ hide:
 
 # Domain & activity
 
-I am a former member of the [MOCO](https://irma.math.unistra.fr/teams/moco.html) and [MACARON](https://www.inria.fr/en/macaron) teams. My field of research is the model order reduction (MOR) of Hamiltonian systems.
+Since September 2026, I have been a postdoctoral researcher within the [CONCACE team](https://concace.gitlabpages.inria.fr/), based at [CERFACS](https://cerfacs.fr/) in Toulouse. My research focuses on hybrid AI-enhanced large-scale iterative methods.
+
+From October 2021 to September 2025, I was a PhD student within the [MOCO](https://irma.math.unistra.fr/teams/moco.html) and [MACARON](https://www.inria.fr/en/macaron) teams. My research focused on model order reduction (MOR) for Hamiltonian systems.
 
 
 ![shallow_water](assets/example1_midpoint.gif){ width="40%" style="display:block; margin:auto;" }
@@ -15,9 +17,9 @@ I am a former member of the [MOCO](https://irma.math.unistra.fr/teams/moco.html)
 
 # Publications & preprints
 
-* *Reduced Particle in Cell method for the Vlasov-Poisson system using auto-encoder and Hamiltonian neural networks*  
+* *Reduced particle-in-cell method for the Vlasov–Poisson system using autoencoder and Hamiltonian neural networks*  
   R. Côte, E. Franck, L. Navoret, G. Steimer, V. Vigon  
-  Submitted. [hal-05116555](https://hal.science/hal-05116555), [arXiv:2506.15203](https://arxiv.org/abs/2506.15203)
+  Adv. Comput. Math., 2026. [doi:10.1007/s10444-026-10364-x](https://doi.org/10.1007/s10444-026-10364-x), [hal-05116555](https://hal.science/hal-05116555)(v1), [arXiv:2506.15203](https://arxiv.org/abs/2506.15203)(v1)
 
 * *Reduced order modeling using auto-encoder and Hamiltonian neural networks*  
   R. Côte, E. Franck, L. Navoret, V. Vigon, G. Steimer  

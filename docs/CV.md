@@ -4,11 +4,6 @@ hide:
   - toc
 ---
 
-# Link to CV
+# Link to my CV
 
-[CV long (english)](assets/cv/cv_long_eng.pdf)
-
-[CV long (french)](assets/cv/cv_long_fr.pdf)
-
-
-
+[full CV (english)](assets/cv/curiculum.pdf)
