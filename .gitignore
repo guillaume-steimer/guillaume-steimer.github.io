@@ -6,3 +6,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+# VSCode (garde devcontainer.json, ignore le reste du réglage local)
+.vscode/*
+!.vscode/settings.json
